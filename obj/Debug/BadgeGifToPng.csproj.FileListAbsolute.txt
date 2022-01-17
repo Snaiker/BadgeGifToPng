@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\ConsoleApp1\BadgeGifToPng\bin\Debug\BadgeGifToPng.exe.config
+C:\Users\Administrator\source\repos\ConsoleApp1\BadgeGifToPng\bin\Debug\BadgeGifToPng.exe
+C:\Users\Administrator\source\repos\ConsoleApp1\BadgeGifToPng\bin\Debug\BadgeGifToPng.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1\BadgeGifToPng\obj\Debug\BadgeGifToPng.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\BadgeGifToPng\obj\Debug\BadgeGifToPng.exe
+C:\Users\Administrator\source\repos\ConsoleApp1\BadgeGifToPng\obj\Debug\BadgeGifToPng.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1\BadgeGifToPng\obj\Debug\BadgeGifToPng.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\BadgeGifToPng\bin\Debug\BadgeGifToPng.exe.config
+C:\Users\Administrator\source\repos\BadgeGifToPng\bin\Debug\BadgeGifToPng.exe
+C:\Users\Administrator\source\repos\BadgeGifToPng\bin\Debug\BadgeGifToPng.pdb
+C:\Users\Administrator\source\repos\BadgeGifToPng\obj\Debug\BadgeGifToPng.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\BadgeGifToPng\obj\Debug\BadgeGifToPng.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BadgeGifToPng\obj\Debug\BadgeGifToPng.exe
+C:\Users\Administrator\source\repos\BadgeGifToPng\obj\Debug\BadgeGifToPng.pdb
